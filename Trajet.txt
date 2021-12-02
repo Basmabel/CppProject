@@ -1,0 +1,4 @@
+TC/2&fes!casa:TS:fes$rabat;voiture?TS:rabat$casa;voiture?
+TC/2&fes!lyon:TS:fes$paris;avion?TS:paris$lyon;avion?
+TS:paris$lyon;bus
+TS:toulouse$nice;bus
